@@ -5,7 +5,7 @@
 <h3><a href="https://ensa-agadir.ac.ma"><code>ENSA Agadir</code></a></h3>
 
 <a href="https://www.linkedin.com/in/abdelaziz-ait-ben-ihya-a13b76322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abdelaaziz.aitbenihya.34@edu.uiz.ac.ma"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:abdelazizaitbenihya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/aziz-benihya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://app.hackthebox.com/"><img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" /></a>
 <a href="https://tryhackme.com/p/DannCooper"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
@@ -30,8 +30,6 @@
 ## `$ cat certifications.txt`
 
 <div align="center">
-
-<a href="https://tryhackme.com/p/DannCooper"><img src="https://tryhackme-badges.s3.amazonaws.com/DannCooper.png" alt="TryHackMe profile" /></a>
 
 
 ![TryHackMe Jr Penetration Tester](https://img.shields.io/badge/THM-Jr%20Penetration%20Tester-C11111?style=flat-square&logo=tryhackme&logoColor=white)
