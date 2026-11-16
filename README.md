@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=500&lines=Abdelaziz+AIT+BEN+IHYA;Pentester+%7C+Red+Teamer;Offensive+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=500&lines=Abdelaziz+AIT+BEN+IHYA;Pentester+%7C+Red+Teamer;AI+Security+%7C+LLM+Agents;Offensive+Security" alt="Typing SVG" />
 
 <h3><a href="https://ensa-agadir.ac.ma"><code>ENSA Agadir</code></a></h3>
 
@@ -19,11 +19,11 @@
 ```json
 {
   "name":       "Abdelaziz AIT BEN IHYA",
-  "role":       "Pentester · Red Teamer · Offensive Security",
+  "role":       "Pentester · Red Teamer · AI Security",
   "education":  "Ing. IT Security & Digital Trust — ENSA Agadir (5th year)",
   "location":   "Agadir, Morocco",
-  "interests":  ["Pentest", "Web App Security", "Red Team", "SOC", "CTF"],
-  "currently":  "Red teaming a RAG-based SOC assistant grounded in MITRE ATT&CK"
+  "interests":  ["AI Security", "LLM Agents", "Pentest", "Web App Security", "Red Team", "SOC", "CTF"],
+  "currently":  "Attacking & defending LLM agents against prompt injection"
 }
 ```
 
@@ -45,6 +45,7 @@
 
 | Project | |
 | --- | --- |
+| [prompt-injection-lab](https://github.com/aziz-benihya/prompt-injection-lab) | **AI security** — attacking & defending an LLM agent against indirect prompt injection (3 defense layers, CLI, CI) |
 | [ThreatLens](https://github.com/aziz-benihya/ThreatLens) | Threat analysis |
 | [keycloak-iam-project](https://github.com/aziz-benihya/keycloak-iam-project) | Identity & Access Management with Keycloak |
 | [CyberResilience-SME-AI-Recommendation-System](https://github.com/aziz-benihya/CyberResilience-SME-AI-Recommendation-System) | AI recommendations for SME cyber resilience |
@@ -61,6 +62,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 
 </div>
 
